@@ -1,2 +1,2 @@
-# haftal-k-planlay-c-
+# haftalik-planlayici
 yapacağınız işeri düzenlemeniz için bir planlayıcı
